@@ -47,5 +47,10 @@ target
 https://www.webfx.com/tools/emoji-cheat-sheet/
 
 例如：
-:smile: :simple_smile:
+:smile: 你试试看 :simple_smile:
+
+:laughing:
+
+:blush:
+
 
