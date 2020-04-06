@@ -42,3 +42,10 @@ hs_err_pid*
 target
 ```
 
+# 常用符号
+
+https://www.webfx.com/tools/emoji-cheat-sheet/
+
+例如：
+:smile::simple_smile:
+
