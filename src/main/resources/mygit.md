@@ -47,5 +47,5 @@ target
 https://www.webfx.com/tools/emoji-cheat-sheet/
 
 例如：
-:smile::simple_smile:
+:smile: :simple_smile:
 
