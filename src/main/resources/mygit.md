@@ -1,4 +1,6 @@
-# mygit
+# 看到
+
+
 
 Navigator
 
@@ -47,10 +49,35 @@ target
 https://www.webfx.com/tools/emoji-cheat-sheet/
 
 例如：
-:smile: 你试试看 :simple_smile:
+:smile: 你试试看 
 
 :laughing:
 
 :blush:
+
+
+
+:open_mouth:
+
+
+
+:cry:
+
+
+
+:exclamation:
+
+
+
+
+
+https://www.webfx.com/tools/emoji-cheat-sheet/
+
+
+
+
+
+https://www.webfx.com/tools/emoji-cheat-sheet/
+
 
 
